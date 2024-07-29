@@ -1,5 +1,5 @@
 {
-"name": "F1 diferidos",
+"name": "Diferidos F1",
 "author": "MoDz",
 "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
 "info":"IPTV oficial de FUTBOL-ADICTOS para diferidos de F1",
@@ -15,6 +15,7 @@
       }, {
            "name": "Ultm. versión 29/07/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
+           "info": "última versión actualizada el 29/07/2024",
            "import": false
       }, {
            "name": "F1 2025",
