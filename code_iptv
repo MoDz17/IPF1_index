@@ -1,0 +1,22 @@
+{
+"name": "F1 diferidos",
+"author": "MoDz",
+"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzL8bUEziWNxRmuNkz6GclrNGyPdDzpq-kzdbD4dLEVW_U4qcBL7QstRTcoKjBgKNnsQLGH3he2nAroG3T7Lgo-QIyySiezlQipXH3pC1_gZEs48LwkXl13_A5XWrSAMAW66bAQ_R4puv7tYvQk6mYoy1r0sdfDuNGCyt8zz12zRTUSFuPj4hGQZ7bJzEZ/w659-h370/logo-f1_2.png",
+"info":"IPTV oficial de FUTBOL-ADICTOS para diferidos de F1",
+"telegram": "",
+"url": "https://raw.githubusercontent.com/MoDz17/IPF1_index/main/code_iptv",
+"groups":
+    [
+       {
+           "name": "F1 2025",
+           "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+           "url": "",
+           "import": false
+      }, {
+           "name": "F1 2024",
+           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEillLZsLHw4kAxVB3B6WH2MouczPMBQbOd-pUaGW5PAfvnKfSyQEna2wXrHELx3AcKBwL0KKotelK9hQK6WLRSvz1w4qUccCYBAypRUl3eSKurgJmyZPqZHm3ANb1gBlSg6-7F0bZ6A8FrdrxhzSW8jaxaEfJJ8hBMow5XuFY17WnHbUrIwHzLfQrDtSRY-/w653-h341/F1_2024.png",
+           "url": "",
+           "import": false
+        }
+     ]
+}
