@@ -1,13 +1,22 @@
 {
 "name": "F1 diferidos",
 "author": "MoDz",
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzL8bUEziWNxRmuNkz6GclrNGyPdDzpq-kzdbD4dLEVW_U4qcBL7QstRTcoKjBgKNnsQLGH3he2nAroG3T7Lgo-QIyySiezlQipXH3pC1_gZEs48LwkXl13_A5XWrSAMAW66bAQ_R4puv7tYvQk6mYoy1r0sdfDuNGCyt8zz12zRTUSFuPj4hGQZ7bJzEZ/w659-h370/logo-f1_2.png",
+"image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
 "info":"IPTV oficial de FUTBOL-ADICTOS para diferidos de F1",
 "telegram": "",
 "url": "https://raw.githubusercontent.com/MoDz17/IPF1_index/main/code_iptv",
 "groups":
     [
        {
+           "name": "FUTBOL - ADICTOS",
+           "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+           "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
+           "import": false
+      }, {
+           "name": "Ultm. versión 29/07/2024",
+           "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
+           "import": false
+      }, {
            "name": "F1 2025",
            "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
            "url": "",
