@@ -8,14 +8,14 @@
 "groups":
     [
        {
-           "name": "FUTBOL - ADICTOS",
+           "name": "IPT - ADICTOS",
            "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
            "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
            "import": false
       }, {
-           "name": "Ultm. versión 02/08/2024",
+           "name": "Ultm. versión 04/08/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 02/08/2024",
+           "info": "última versión actualizada el 04/08/2024",
            "import": false
       }, {
            "name": "F1 2025",
@@ -25,7 +25,7 @@
       }, {
            "name": "F1 2024",
            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEillLZsLHw4kAxVB3B6WH2MouczPMBQbOd-pUaGW5PAfvnKfSyQEna2wXrHELx3AcKBwL0KKotelK9hQK6WLRSvz1w4qUccCYBAypRUl3eSKurgJmyZPqZHm3ANb1gBlSg6-7F0bZ6A8FrdrxhzSW8jaxaEfJJ8hBMow5XuFY17WnHbUrIwHzLfQrDtSRY-/w653-h341/F1_2024.png",
-           "url": "",
+           "url": "https://raw.githubusercontent.com/MoDz17/IPF1_content24/main/code_iptv",
            "import": false
         }
      ]
